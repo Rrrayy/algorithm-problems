@@ -1,0 +1,4 @@
+# Greedy
+
+| # | Title | Tags | Difficulty |
+|:--|:------|:-----|:----------:|
