@@ -1,7 +1,7 @@
 # Algorithm Problems
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-5%20Solved-green?style=flat-square&logo=leetcode" />
+  <img src="https://img.shields.io/badge/LeetCode-4%20Solved-green?style=flat-square&logo=leetcode" />
   <img src="https://img.shields.io/badge/ 牛客-0%20Solved-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/ 洛谷-0%20Solved-orange?style=flat-square" />
 </div>
@@ -19,7 +19,7 @@
 
 | 数组 | 链表 | 字符串 | 哈希表 | 树 | 图 |滑动窗口|
 |:----:|:----:|:------:|:------:|:--:|:---:|:------:|
-| 5 | 0 | 0 | 2 | 0 | 0 |1|
+| 4 | 0 | 0 | 2 | 0 | 0 |1|
 
  |DP | 回溯 | 贪心 | 双指针 | 二分 | 位运算 |
  |:--:|:----:|:----:|:------:|:----:|:------:|
