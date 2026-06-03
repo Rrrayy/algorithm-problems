@@ -1,7 +1,7 @@
 # Algorithm Problems
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-4%20Solved-green?style=flat-square&logo=leetcode" />
+  <img src="https://img.shields.io/badge/LeetCode-6%20Solved-green?style=flat-square&logo=leetcode" />
   <img src="https://img.shields.io/badge/ 牛客-0%20Solved-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/ 洛谷-0%20Solved-orange?style=flat-square" />
 </div>
@@ -19,11 +19,11 @@
 
 | 数组 | 链表 | 字符串 | 哈希表 | 树 | 图 |滑动窗口|
 |:----:|:----:|:------:|:------:|:--:|:---:|:------:|
-| 4 | 0 | 0 | 2 | 0 | 0 |1|
+| 5 | 0 | 0 | 2 | 0 | 0 |1|
 
- |DP | 回溯 | 贪心 | 双指针 | 二分 | 位运算 |
- |:--:|:----:|:----:|:------:|:----:|:------:|
- | 0 | 0 | 0 | 1 | 1 | 0 |
+ |DP | 回溯 | 贪心 | 双指针 | 二分 | 位运算 |模拟|
+ |:--:|:----:|:----:|:------:|:----:|:------:|:------:|
+ | 0 | 0 | 0 | 1 | 1 | 0 |1 |
 ---
 
 ##  Topics
@@ -41,12 +41,13 @@
 - [双指针](./topics/two-pointers.md)
 - [二分查找](./topics/binary-search.md)
 - [位运算](./topics/bit-manipulation.md)
+- [模拟](./topics/imitate.md)
 
 ---
 
 <div align="center">
   
-### 进度: 5/∞ 
+### 进度: 6/∞ 
  
 
 
