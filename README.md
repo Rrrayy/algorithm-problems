@@ -1,7 +1,7 @@
 # Algorithm Problems
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-13%20Solved-green?style=flat-square&logo=leetcode" />
+  <img src="https://img.shields.io/badge/LeetCode-14%20Solved-green?style=flat-square&logo=leetcode" />
   <img src="https://img.shields.io/badge/ 牛客-0%20Solved-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/ 洛谷-0%20Solved-orange?style=flat-square" />
 </div>
@@ -12,6 +12,7 @@
 - 每道题仅记录我自己的解法，不追求覆盖所有标签方法
 - 部分代码包含详细注释，说明解题思路
 - 官方题目标签中的其他解法供参考，不逐一实现
+- 各模块题目顺序按难度以及上传时间排序
 
 ---
 
@@ -19,7 +20,7 @@
 
 | 数组 | 链表 | 字符串 | 哈希表 | 树 | 图 |滑动窗口|
 |:----:|:----:|:------:|:------:|:--:|:---:|:------:|
-| 6 | 5 | 0 | 4 | 0 | 0 |1|
+| 6 | 5 | 0 | 5 | 0 | 0 |1|
 
  |DP | 回溯 | 贪心 | 双指针 | 二分 | 位运算 |模拟|
  |:--:|:----:|:----:|:------:|:----:|:------:|:------:|
@@ -47,7 +48,7 @@
 
 <div align="center">
   
-### 进度: 13/∞ 
+### 进度: 14/∞ 
  
 
 
