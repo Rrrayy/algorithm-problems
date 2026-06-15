@@ -1,7 +1,7 @@
 # Algorithm Problems
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-14%20Solved-green?style=flat-square&logo=leetcode" />
+  <img src="https://img.shields.io/badge/LeetCode-15%20Solved-green?style=flat-square&logo=leetcode" />
   <img src="https://img.shields.io/badge/ 牛客-0%20Solved-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/ 洛谷-0%20Solved-orange?style=flat-square" />
 </div>
@@ -20,11 +20,11 @@
 
 | 数组 | 链表 | 字符串 | 哈希表 | 树 | 图 |滑动窗口|
 |:----:|:----:|:------:|:------:|:--:|:---:|:------:|
-| 6 | 5 | 0 | 5 | 0 | 0 |1|
+| 7 | 5 | 0 | 5 | 0 | 0 |1|
 
  |DP | 回溯 | 贪心 | 双指针 | 二分 | 位运算 |模拟|
  |:--:|:----:|:----:|:------:|:----:|:------:|:------:|
- | 0 | 0 | 0 | 3 | 1 | 0 |1 |
+ | 0 | 0 | 0 | 4 | 1 | 0 |1 |
 ---
 
 ##  Topics
@@ -48,7 +48,7 @@
 
 <div align="center">
   
-### 进度: 14/∞ 
+### 进度: 15/∞ 
  
 
 
