@@ -19,7 +19,7 @@
   <br><br>
 
   <!-- total badge -->
-  <img src="https://img.shields.io/badge/Total%20Solved-15-8b5cf6?style=for-the-badge&labelColor=1e1b4b" alt="total 16 solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-16-8b5cf6?style=for-the-badge&labelColor=1e1b4b" alt="total 16 solved"/>
 </div>
 
 <br>
