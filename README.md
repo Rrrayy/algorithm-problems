@@ -7,7 +7,7 @@
 
   <!-- platform badges -->
   <a href="https://leetcode.cn/u/rrrayy/">
-    <img src="https://img.shields.io/badge/LeetCode-17%20Solved-22ba5e?style=flat-square&logo=leetcode" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-18%20Solved-22ba5e?style=flat-square&logo=leetcode" alt="LeetCode"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/牛客-0%20Solved-0078d7?style=flat-square" alt="牛客"/>
@@ -19,7 +19,7 @@
   <br><br>
 
   <!-- total badge -->
-  <img src="https://img.shields.io/badge/Total%20Solved-17-8b5cf6?style=for-the-badge&labelColor=1e1b4b" alt="total 17 solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-18-8b5cf6?style=for-the-badge&labelColor=1e1b4b" alt="total 18 solved"/>
 </div>
 
 <br>
@@ -53,7 +53,7 @@
 
 | | 数组 | 链表 | 字符串 | 哈希表 | 树 | 图 |
 |:---:|:----:|:----:|:------:|:------:|:--:|:--:|
-| 已解 | 8 | 5 | 1 | 5 | 0 | 0 |
+| 已解 | 8 | 5 | 2 | 5 | 0 | 0 |
 | 状态 | 🔴 | 🔴 | 🔴 | 🔴 | ⚪ | ⚪ |
 
 ### 算法 & 技巧
@@ -73,7 +73,7 @@
 |:-:|:----|:----:|:----:|:----|
 | 1 | 🔢 数组 | `8` | 🔴 | [→ 查看](./topics/array.md) |
 | 2 | 🔗 链表 | `5` | 🔴 | [→ 查看](./topics/linked-list.md) |
-| 3 | 📝 字符串 | `1` | 🔴 | [→ 查看](./topics/string.md) |
+| 3 | 📝 字符串 | `2` | 🔴 | [→ 查看](./topics/string.md) |
 | 4 | 🗂️ 哈希表 | `5` | 🔴 | [→ 查看](./topics/hash-table.md) |
 | 5 | 🌳 树 | `0` | ⚪ | [→ 查看](./topics/tree.md) |
 | 6 | 🕸️ 图 | `0` | ⚪ | [→ 查看](./topics/graph.md) |
@@ -96,7 +96,7 @@
 <br>
 
 <div align="center">
-  <sub>⚡ 持续更新中 · 17 / ∞</sub>
+  <sub>⚡ 持续更新中 · 18 / ∞</sub>
   <br>
   <sub>✍️ 由本人逐题手写，代码含完整注释</sub>
   <br><br>
