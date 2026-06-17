@@ -7,7 +7,7 @@
 
   <!-- platform badges -->
   <a href="https://leetcode.cn/u/rrrayy/">
-    <img src="https://img.shields.io/badge/LeetCode-20%20Solved-22ba5e?style=flat-square&logo=leetcode" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-21%20Solved-22ba5e?style=flat-square&logo=leetcode" alt="LeetCode"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/牛客-0%20Solved-0078d7?style=flat-square" alt="牛客"/>
@@ -19,7 +19,7 @@
   <br><br>
 
   <!-- total badge -->
-  <img src="https://img.shields.io/badge/Total%20Solved-20-8b5cf6?style=for-the-badge&labelColor=1e1b4b" alt="total 20 solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-21-8b5cf6?style=for-the-badge&labelColor=1e1b4b" alt="total 21 solved"/>
 </div>
 
 <br>
@@ -60,7 +60,7 @@
 
 | | 滑动窗口 | DP | 回溯 | 贪心 | 双指针 | 二分查找 | 位运算 | 模拟 |
 |:---:|:--------:|:--:|:----:|:----:|:------:|:--------:|:------:|:----:|
-| 已解 | 1 | 0 | 0 | 0 | 7 | 1 | 0 | 1 |
+| 已解 | 1 | 0 | 0 | 0 | 7 | 1 | 0 | 2 |
 | 状态 | 🔴 | ⚪ | ⚪ | ⚪ | 🔴 | 🔴 | ⚪ | 🔴 |
 
 ---
@@ -89,14 +89,14 @@
 | 5 | ↔️ 双指针 | `7` | 🔴 | [→ 查看](./topics/two-pointers.md) |
 | 6 | ⚡ 二分查找 | `1` | 🔴 | [→ 查看](./topics/binary-search.md) |
 | 7 | 🔣 位运算 | `0` | ⚪ | [→ 查看](./topics/bit-manipulation.md) |
-| 8 | 🔄 模拟 | `1` | 🔴 | [→ 查看](./topics/imitate.md) |
+| 8 | 🔄 模拟 | `2` | 🔴 | [→ 查看](./topics/imitate.md) |
 
 ---
 
 <br>
 
 <div align="center">
-  <sub>⚡ 持续更新中 · 20 / ∞</sub>
+  <sub>⚡ 持续更新中 · 21 / ∞</sub>
   <br>
   <sub>✍️ 由本人逐题手写，代码含完整注释</sub>
   <br><br>
