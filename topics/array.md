@@ -6,6 +6,7 @@
 | 027 | [移除元素](https://leetcode.cn/problems/remove-element/description/)|[我的题解](../solutions/problem-27/)|数组,双指针|简单|
 | 242 | [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/) | [我的题解](../solutions/problem-242/) | 数组,哈希 | 简单 |
 | 704 | [二分查找](https://leetcode.cn/problems/binary-search/) | [我的题解](../solutions/problem-704/) | 数组,二分 | 简单 |
+| 977 | [有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/description/)|[我的题解](../solutions/problem-977/)|数组,双指针|简单|
 | 015 | [三数之和](https://leetcode.cn/problems/3sum/description/)| [我的题解](../solutions/problem-15)| 数组,双指针| 中等 |
 | 018 | [四数之和](https://leetcode.cn/problems/4sum/)| [我的题解](../solutions/problem-18)| 数组,双指针| 中等 |
 | 059 | [螺旋矩阵II](https://leetcode.cn/problems/spiral-matrix-ii/)| [我的题解](../solutions/problem-59)| 数组,模拟| 中等 |
