@@ -7,7 +7,7 @@
 
   <!-- platform badges -->
   <a href="https://leetcode.cn/u/rrrayy/">
-    <img src="https://img.shields.io/badge/LeetCode-21%20Solved-22ba5e?style=flat-square&logo=leetcode" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-22%20Solved-22ba5e?style=flat-square&logo=leetcode" alt="LeetCode"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/牛客-0%20Solved-0078d7?style=flat-square" alt="牛客"/>
@@ -19,7 +19,7 @@
   <br><br>
 
   <!-- total badge -->
-  <img src="https://img.shields.io/badge/Total%20Solved-21-8b5cf6?style=for-the-badge&labelColor=1e1b4b" alt="total 21 solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-21-8b5cf6?style=for-the-badge&labelColor=1e1b4b" alt="total 22 solved"/>
 </div>
 
 <br>
@@ -53,14 +53,14 @@
 
 | | 数组 | 链表 | 字符串 | 哈希表 | 树 | 图 |
 |:---:|:----:|:----:|:------:|:------:|:--:|:--:|
-| 已解 | 8 | 5 | 4 | 5 | 0 | 0 |
+| 已解 | 9 | 5 | 4 | 5 | 0 | 0 |
 | 状态 | 🔴 | 🔴 | 🔴 | 🔴 | ⚪ | ⚪ |
 
 ### 算法 & 技巧
 
 | | 滑动窗口 | DP | 回溯 | 贪心 | 双指针 | 二分查找 | 位运算 | 模拟 |
 |:---:|:--------:|:--:|:----:|:----:|:------:|:--------:|:------:|:----:|
-| 已解 | 1 | 0 | 0 | 0 | 7 | 1 | 0 | 2 |
+| 已解 | 1 | 0 | 0 | 0 | 8 | 1 | 0 | 2 |
 | 状态 | 🔴 | ⚪ | ⚪ | ⚪ | 🔴 | 🔴 | ⚪ | 🔴 |
 
 ---
@@ -71,7 +71,7 @@
 
 | # | 分类 | 进度 | 状态 | 链接 |
 |:-:|:----|:----:|:----:|:----|
-| 1 | 🔢 数组 | `8` | 🔴 | [→ 查看](./topics/array.md) |
+| 1 | 🔢 数组 | `9` | 🔴 | [→ 查看](./topics/array.md) |
 | 2 | 🔗 链表 | `5` | 🔴 | [→ 查看](./topics/linked-list.md) |
 | 3 | 📝 字符串 | `4` | 🔴 | [→ 查看](./topics/string.md) |
 | 4 | 🗂️ 哈希表 | `5` | 🔴 | [→ 查看](./topics/hash-table.md) |
@@ -86,7 +86,7 @@
 | 2 | 🧮 动态规划 | `0` | ⚪ | [→ 查看](./topics/dynamic-programming.md) |
 | 3 | ↩️ 回溯 | `0` | ⚪ | [→ 查看](./topics/backtracking.md) |
 | 4 | 🎯 贪心 | `0` | ⚪ | [→ 查看](./topics/greedy.md) |
-| 5 | ↔️ 双指针 | `7` | 🔴 | [→ 查看](./topics/two-pointers.md) |
+| 5 | ↔️ 双指针 | `8` | 🔴 | [→ 查看](./topics/two-pointers.md) |
 | 6 | ⚡ 二分查找 | `1` | 🔴 | [→ 查看](./topics/binary-search.md) |
 | 7 | 🔣 位运算 | `0` | ⚪ | [→ 查看](./topics/bit-manipulation.md) |
 | 8 | 🔄 模拟 | `2` | 🔴 | [→ 查看](./topics/imitate.md) |
@@ -96,7 +96,7 @@
 <br>
 
 <div align="center">
-  <sub>⚡ 持续更新中 · 21 / ∞</sub>
+  <sub>⚡ 持续更新中 · 22 / ∞</sub>
   <br>
   <sub>✍️ 由本人逐题手写，代码含完整注释</sub>
   <br><br>
