@@ -3,6 +3,7 @@
 | # | 题目 | 题解 | 标签 | 难度 |
 |:--|:-----|:-----|:-----|:----:|
 | 021 | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | [我的题解](../solutions/problem-21/) | 链表,递归 | 简单 |
+| 160 | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)| [我的题解](../solutions/problem-160/) | 链表,双指针 | 简单 |
 | 203 | [移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) | [我的题解](../solutions/problem-203/) | 链表,递归 | 简单 |
 | 206 | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | [我的题解](../solutions/problem-206/) | 链表,递归 | 简单 |
 | 019 | [删除链表的倒数第N个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)| [我的题解](../solutions/problem-19/) | 链表,双指针 | 中等 |
