@@ -1,8 +1,10 @@
 # Algorithm Problems
 
-个人算法刷题记录
+个人算法刷题记录 
 
 ## 进度：27 道
+
+🔥 **Hot 100**：0 道 — [→ topics/hot100.md](./topics/hot100.md)
 
 ### 数据结构
 
@@ -28,5 +30,5 @@
 | 贪心 | 0 | [→ topics/greedy.md](./topics/greedy.md) |
 | 位运算 | 0 | [→ topics/bit-manipulation.md](./topics/bit-manipulation.md) |
 
----
 
+---
