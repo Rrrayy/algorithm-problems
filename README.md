@@ -4,7 +4,7 @@
 
 ## 进度：27 道
 
-🔥 **Hot 100**：0 道 — [→ topics/hot100.md](./topics/hot100.md)
+🔥 **Hot 100**：1 道 — [→ topics/hot100.md](./topics/hot100.md)
 
 ### 数据结构
 
