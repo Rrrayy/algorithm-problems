@@ -4,6 +4,7 @@
 |:--|:-----|:-----|:-----|:----:|
 | 027 |[移除元素](https://leetcode.cn/problems/remove-element/description/)|[我的题解](../solutions/problem-27/)|双指针,数组|简单|
 | 160 | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)| [我的题解](../solutions/problem-160/) | 双指针,链表 | 简单 |
+| 202 | [快乐数](https://leetcode.cn/problems/happy-number/description/)| [我的题解](../solutions/problem-202/) | 双指针 | 简单 |
 | 344 |[反转字符串](https://leetcode.cn/problems/reverse-string/)|[我的题解](../solutions/problem-344/)|双指针,字符串|简单|
 | 977 | [有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/description/)|[我的题解](../solutions/problem-977/)|双指针,数组|简单|
 | 015 | [三数之和](https://leetcode.cn/problems/3sum/description/)| [我的题解](../solutions/problem-15)| 双指针,数组| 中等 |
