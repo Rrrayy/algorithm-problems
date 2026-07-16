@@ -7,5 +7,7 @@
 | 349 |[两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/)|[我的解答](../solutions/problem-349/)|哈希表|简单|
 | 383 |[赎金信](https://leetcode.cn/problems/ransom-note/)|[我的解答](../solutions/problem-383/)|哈希表|简单|
 | 3120|[统计特殊字母的数量](https://leetcode.cn/problems/count-the-number-of-special-characters-i/)|[我的解答](../solutions/problem-3120/)|哈希表|简单|
+| 049 | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-100-liked) | [我的题解](../solutions/problem-049/) | 数组,哈希,字符串 | 中等 |
 | 454 | [四数相加II](https://leetcode.cn/problems/4sum-ii/) | [我的解答](../solutions/problem-454/) | 哈希表 | 中等 |
+
 
