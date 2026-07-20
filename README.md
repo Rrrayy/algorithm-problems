@@ -2,7 +2,7 @@
 
 个人算法刷题记录 
 
-## 进度：34 道
+## 进度：35 道
 
 🔥 **Hot 100**：3 道 — [→ topics/hot100.md](./topics/hot100.md)
 
@@ -14,7 +14,7 @@
 | 链表 | 9 | [→ topics/linked-list.md](./topics/linked-list.md) |
 | 字符串 | 7 | [→ topics/string.md](./topics/string.md) |
 | 哈希表 | 8 | [→ topics/hash-table.md](./topics/hash-table.md) |
-| 栈与队列 | 2 | [→ topics/stack-queue.md](./topics/stack-queue.md) |
+| 栈与队列 | 3 | [→ topics/stack-queue.md](./topics/stack-queue.md) |
 | 树 | 0 | [→ topics/tree.md](./topics/tree.md) |
 | 图 | 0 | [→ topics/graph.md](./topics/graph.md) |
 
@@ -25,7 +25,7 @@
 | 滑动窗口 | 2 | [→ topics/sliding-window.md](./topics/sliding-window.md) |
 | 双指针 | 11 | [→ topics/two-pointers.md](./topics/two-pointers.md) |
 | 二分查找 | 1 | [→ topics/binary-search.md](./topics/binary-search.md) |
-| 模拟 | 2 | [→ topics/imitate.md](./topics/imitate.md) |
+| 模拟 | 3 | [→ topics/imitate.md](./topics/imitate.md) |
 | 动态规划 | 0 | [→ topics/dynamic-programming.md](./topics/dynamic-programming.md) |
 | 回溯 | 0 | [→ topics/backtracking.md](./topics/backtracking.md) |
 | 贪心 | 0 | [→ topics/greedy.md](./topics/greedy.md) |
