@@ -11,5 +11,6 @@
 | 107  |[二叉树的层序遍历II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/description/)|[我的题解](../solutions/problem-107/)|二叉树,队列|中等|
 | 150 | [逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/description/) | [我的题解](../solutions/problem-150/) |栈,模拟 | 中等 |
 | 199  |[二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/)|[我的题解](../solutions/problem-199/)|二叉树,队列|中等|
+| 429  |[N叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/description/)|[我的题解](../solutions/problem-429/)|二叉树,队列|中等|
 
 
