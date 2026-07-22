@@ -3,7 +3,7 @@
 个人算法刷题记录 
 声明：题目排序为不同难度按照难度排序，相同难度下按序号大小排序
 
-## 进度：46 道
+## 进度：47 道
 
 🔥 **Hot 100**：3 道 — [→ topics/hot100.md](./topics/hot100.md)
 
@@ -15,8 +15,8 @@
 | 链表 | 9 | [→ topics/linked-list.md](./topics/linked-list.md) |
 | 字符串 | 7 | [→ topics/string.md](./topics/string.md) |
 | 哈希表 | 8 | [→ topics/hash-table.md](./topics/hash-table.md) |
-| 栈与队列 | 14 | [→ topics/stack-queue.md](./topics/stack-queue.md) |
-| 树 | 11 | [→ topics/tree.md](./topics/tree.md) |
+| 栈与队列 | 15 | [→ topics/stack-queue.md](./topics/stack-queue.md) |
+| 树 | 12 | [→ topics/tree.md](./topics/tree.md) |
 | 图 | 0 | [→ topics/graph.md](./topics/graph.md) |
 
 ### 算法 & 技巧
