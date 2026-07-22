@@ -2,6 +2,7 @@
 
 | # | 题目 | 题解 | 标签 | 难度 |
 |:--|:-----|:-----|:-----|:----:|
+| 101  |[对称二叉树](https://leetcode.cn/problems/symmetric-tree/)|[我的题解](../solutions/problem-101/)|二叉树,队列|简单|
 | 104  |[二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/)|[我的题解](../solutions/problem-104/)|二叉树,队列|简单|
 | 111  |[二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/description/)|[我的题解](../solutions/problem-111/)|二叉树,队列|简单|
 |144|[二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|[我的题解](../solutions/problem-144/)|二叉树,栈|简单|
