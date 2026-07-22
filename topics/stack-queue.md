@@ -7,6 +7,7 @@
 | 111  |[二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/description/)|[我的题解](../solutions/problem-111/)|二叉树,队列|简单|
 |144  |[二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|[我的题解](../solutions/problem-144/)|二叉树,栈|简单|
 |145  |[二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/)|[我的题解](../solutions/problem-145/)|二叉树,栈|简单|
+| 226  |[翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/description/)|[我的题解](../solutions/problem-226/)|二叉树,栈|简单|
 | 637  |[二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/description/)|[我的题解](../solutions/problem-637/)|二叉树,队列|简单|
 | 1047 |[删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/description/)|[我的题解](../solutions/problem-1047/)|字符串,栈|简单|
 | 102  |[二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/)|[我的题解](../solutions/problem-102/)|二叉树,队列|中等|
