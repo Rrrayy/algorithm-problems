@@ -5,7 +5,7 @@
 
 ## 进度：48 道
 
-🔥 **Hot 100**：3 道 — [→ topics/hot100.md](./topics/hot100.md)
+🔥 **Hot 100（ACM模式）**：3 道 — [→ topics/hot100.md](./topics/hot100.md)
 
 ### 数据结构
 
