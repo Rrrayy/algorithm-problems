@@ -3,7 +3,7 @@
 个人算法刷题记录 
 声明：题目排序为不同难度按照难度排序，相同难度下按序号大小排序
 
-## 进度：53 道
+## 进度：54 道
 
 🔥 **Hot 100（ACM模式）**：2 道 — [→ topics/hot100.md](./topics/hot100.md)
 
@@ -11,7 +11,7 @@
 
 | 分类 | 已解 | 链接 |
 |:----|:----:|:----|
-| 数组 | 11 | [→ topics/array.md](./topics/array.md) |
+| 数组 | 12| [→ topics/array.md](./topics/array.md) |
 | 链表 | 9 | [→ topics/linked-list.md](./topics/linked-list.md) |
 | 字符串 | 7 | [→ topics/string.md](./topics/string.md) |
 | 哈希表 | 8 | [→ topics/hash-table.md](./topics/hash-table.md) |
