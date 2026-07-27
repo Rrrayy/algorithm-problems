@@ -2,6 +2,7 @@
 
 | # | 题目 | 题解 | 标签 | 难度 |
 |:--|:-----|:-----|:-----|:----:|
+| k58 | [区间和](https://kamacoder.com/problempage.php?pid=1070) | [我的题解](../solutions/problem-k58/) | 数组 | 简单 |
 | 001 | [两数之和](https://leetcode.cn/problems/two-sum/description/) | [我的题解](../solutions/problem-001/) | 数组,哈希 | 简单 |
 | 026 | [删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/)|[我的题解](../solutions/problem-26/)|数组,双指针|简单|
 | 027 | [移除元素](https://leetcode.cn/problems/remove-element/description/)|[我的题解](../solutions/problem-27/)|数组,双指针|简单|
