@@ -3,7 +3,7 @@
 个人算法刷题记录 
 声明：题目排序为不同难度按照难度排序，相同难度下按序号大小排序
 
-## 进度：56 道
+## 进度：57 道
 
 🔥 **Hot 100（ACM模式）**：2 道 — [→ topics/hot100.md](./topics/hot100.md)
 
@@ -16,7 +16,7 @@
 | 字符串 | 7 | [→ topics/string.md](./topics/string.md) |
 | 哈希表 | 8 | [→ topics/hash-table.md](./topics/hash-table.md) |
 | 栈与队列 | 17 | [→ topics/stack-queue.md](./topics/stack-queue.md) |
-| 树 | 18 | [→ topics/tree.md](./topics/tree.md) |
+| 树 | 19 | [→ topics/tree.md](./topics/tree.md) |
 | 图 | 0 | [→ topics/graph.md](./topics/graph.md) |
 
 ### 算法 & 技巧
@@ -28,7 +28,7 @@
 | 二分查找 | 1 | [→ topics/binary-search.md](./topics/binary-search.md) |
 | 模拟 | 3 | [→ topics/imitate.md](./topics/imitate.md) |
 | 动态规划 | 0 | [→ topics/dynamic-programming.md](./topics/dynamic-programming.md) |
-| 回溯 | 1 | [→ topics/backtracking.md](./topics/backtracking.md) |
+| 回溯 | 2 | [→ topics/backtracking.md](./topics/backtracking.md) |
 | 贪心 | 0 | [→ topics/greedy.md](./topics/greedy.md) |
 | 位运算 | 0 | [→ topics/bit-manipulation.md](./topics/bit-manipulation.md) |
 
