@@ -8,4 +8,5 @@
 | 40  | [组合总和II](https://leetcode.cn/problems/combination-sum-ii/description/)| [我的题解](../solutions/problem-40)| 数组,回溯| 中等 |
 | 77  |[组合](https://leetcode.cn/problems/combinations/description/)|[我的题解](../solutions/problem-77/)|回溯|中等|
 | 113  |[路径总和II](https://leetcode.cn/problems/path-sum-ii/description/)|[我的题解](../solutions/problem-113/)|二叉树,递归|中等|
+| 131  |[分割字符串](https://leetcode.cn/problems/palindrome-partitioning/description/)|[我的题解](../solutions/problem-131/)|回溯,字符串|中等|
 | 216  |[组合总和III](https://leetcode.cn/problems/combination-sum-iii/description/)|[我的题解](../solutions/problem-216/)|回溯|中等|
