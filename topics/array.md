@@ -15,5 +15,6 @@
 | 040 | [组合总和II](https://leetcode.cn/problems/combination-sum-ii/description/)| [我的题解](../solutions/problem-40)| 数组,回溯| 中等 |
 | 049 | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-100-liked) | [我的题解](../solutions/problem-049/) | 数组,哈希,字符串 | 中等 |
 | 059 | [螺旋矩阵II](https://leetcode.cn/problems/spiral-matrix-ii/)| [我的题解](../solutions/problem-59)| 数组,模拟| 中等 |
+| 078 | [子集](https://leetcode.cn/problems/subsets/)| [我的题解](../solutions/problem-78)| 数组,回溯| 中等 |
 | 209 | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | [我的题解](../solutions/problem-209/) | 数组,滑动窗口 | 中等 |
 
