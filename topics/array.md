@@ -18,4 +18,4 @@
 | 078 | [子集](https://leetcode.cn/problems/subsets/)| [我的题解](../solutions/problem-78)| 数组,回溯| 中等 |
 | 090 | [子集II](https://leetcode.cn/problems/subsets-ii/description/)| [我的题解](../solutions/problem-90)| 数组,回溯| 中等 |
 | 209 | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | [我的题解](../solutions/problem-209/) | 数组,滑动窗口 | 中等 |
-
+| 491 | [非递减子序列](https://leetcode.cn/problems/non-decreasing-subsequences/description/)| [我的题解](../solutions/problem-491)| 数组,回溯| 中等 |
