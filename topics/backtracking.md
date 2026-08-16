@@ -6,7 +6,8 @@
 | 17  |[电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)|[我的题解](../solutions/problem-17/)|回溯,字符串|中等|
 | 39  | [组合总和](https://leetcode.cn/problems/combination-sum/)| [我的题解](../solutions/problem-39)| 数组,回溯| 中等 |
 | 40  | [组合总和II](https://leetcode.cn/problems/combination-sum-ii/description/)| [我的题解](../solutions/problem-40)| 数组,回溯| 中等 |
-| 46 | [全排列](https://leetcode.cn/problems/permutations/submissions/)| [我的题解](../solutions/problem-46)| 数组,回溯| 中等 
+| 46 | [全排列](https://leetcode.cn/problems/permutations/submissions/)| [我的题解](../solutions/problem-46)| 数组,回溯| 中等 |
+| 47 | [全排列II](https://leetcode.cn/problems/permutations-ii/description/)| [我的题解](../solutions/problem-47)| 数组,回溯| 中等 |
 | 77  |[组合](https://leetcode.cn/problems/combinations/description/)|[我的题解](../solutions/problem-77/)|回溯|中等|
 | 78 | [子集](https://leetcode.cn/problems/subsets/)| [我的题解](../solutions/problem-78)| 数组,回溯| 中等 |
 | 90 | [子集II](https://leetcode.cn/problems/subsets-ii/description/)| [我的题解](../solutions/problem-90)| 数组,回溯| 中等 |
