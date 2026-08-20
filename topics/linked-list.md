@@ -10,4 +10,5 @@
 | 019 | [删除链表的倒数第N个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)| [我的题解](../solutions/problem-19/) | 链表,双指针 | 中等 |
 | 024 | [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/description/) | [我的题解](../solutions/problem-24/) | 链表,递归 | 中等 |
 | 142 | [环形链表II](https://leetcode.cn/problems/linked-list-cycle-ii/)| [我的题解](../solutions/problem-142/) | 链表,双指针 | 中等 |
+| 146 | [LRU缓存](https://leetcode.cn/problems/lru-cache/)| [我的题解](../solutions/problem-146/) | 链表,哈希表 | 中等 |
 | 707 | [设计链表](https://leetcode.cn/problems/design-linked-list/)| [我的题解](../solutions/problem-707/) | 链表 | 中等 |
