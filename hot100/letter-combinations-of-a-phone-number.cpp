@@ -1,0 +1,23 @@
+class Solution {
+public:
+    const string lettermap[10]={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+    vector<string>res;
+    string temp;
+    void dfs(string digits,int index){
+        if(temp.size()==digits.size()){
+            res.push_back(temp);
+            return;
+        }
+        int cur=digits[index]-'0';
+        string letter=lettermap[cur];
+        for(int i=0;i<letter.size();++i){
+            temp.push_back(letter[i]);
+            dfs(digits,index+1);
+            temp.pop_back();
+        }
+    }
+    vector<string> letterCombinations(string digits) {
+        dfs(digits,0);
+        return res;
+    }
+};
