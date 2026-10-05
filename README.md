@@ -3,9 +3,9 @@
 个人算法刷题记录 
 声明：题目排序为不同难度按照难度排序，相同难度下按序号大小排序
 
-## 进度：130道
+## 进度：136道
 
-🔥 **Hot 100**：62道 — [→ topics/hot100.md](./topics/hot100.md)
+🔥 **Hot 100**：68道 — [→ topics/hot100.md](./topics/hot100.md)
 
 ### 数据结构
 
@@ -32,8 +32,6 @@
 | 贪心 | 0 | [→ topics/greedy.md](./topics/greedy.md) |
 | 位运算 | 0 | [→ topics/bit-manipulation.md](./topics/bit-manipulation.md) |
 
- ### 手写算法实现  
-
-  排序算法 → [各种排序实现](./sort/)
+ ### [手写算法实现](./algorithm/)  
   
 ---
