@@ -3,7 +3,7 @@
 个人算法刷题记录 
 声明：题目排序为不同难度按照难度排序，相同难度下按序号大小排序
 
-## 进度：165道
+## 进度：172道
 
 🔥 **Hot 100**：89道 — [→ topics/hot100.md](./topics/hot100.md)
 
@@ -25,7 +25,7 @@
 
 | 分类 | 已解 | 链接 |
 |:----|:----:|:----|
-| 滑动窗口 | 9 | [→ topics/sliding-window.md](./topics/sliding-window.md) |
+| 滑动窗口 | 16 | [→ topics/sliding-window.md](./topics/sliding-window.md) |
 | 双指针 | 11 | [→ topics/two-pointers.md](./topics/two-pointers.md) |
 | 二分查找 | 1 | [→ topics/binary-search.md](./topics/binary-search.md) |
 | 模拟 | 3 | [→ topics/imitate.md](./topics/imitate.md) |

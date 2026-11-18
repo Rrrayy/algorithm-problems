@@ -4,10 +4,15 @@
 | 209 | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) |[我的题解](../solutions/problem-209/)| 数组,滑动窗口 | 中等 |
 | 567 | [字符串的排列](https://leetcode.cn/problems/permutation-in-string/) |[我的题解](../solutions/problem-567/)| 滑动窗口 | 中等 |
 | 643 | [子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/) |[我的题解](../solutions/problem-643/)| 数组，滑动窗口 | 简单 |
+| 904 | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/) |[我的题解](../solutions/problem-904/)| 滑动窗口 | 中等 |
+| 1052 | [爱生气的书店老板](https://leetcode.cn/problems/grumpy-bookstore-owner/) |[我的题解](../solutions/problem-1052/)| 滑动窗口 | 中等 |
 | 1343 | [大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |[我的题解](../solutions/problem-1343/)| 滑动窗口 | 中等 |
 | 1423 | [可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/) |[我的题解](../solutions/problem-1423/)| 滑动窗口 | 中等 |
 | 1456 | [定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) |[我的题解](../solutions/problem-1456/)| 滑动窗口 | 中等 |
+| 1493 | [删掉一个元素以后全为 1 的最长子数组](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/) |[我的题解](../solutions/problem-1493/)| 滑动窗口 | 中等 |
+| 1695 | [删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/) |[我的题解](../solutions/problem-1695/)| 滑动窗口 | 中等 |
 | 2090 | [半径为 k 的子数组平均值](https://leetcode.cn/problems/k-radius-subarray-averages/) |[我的题解](../solutions/problem-2090/)| 滑动窗口 | 中等 |
+| 2134 | [最少交换次数来组合所有的 1 II](https://leetcode.cn/problems/minimum-swaps-to-group-all-1s-together-ii/) |[我的题解](../solutions/problem-2134/)| 滑动窗口 | 中等 |
 | 2379 | [得到 K 个黑块的最少涂色次数](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) |[我的题解](../solutions/problem-2379/)| 滑动窗口 | 简单 |
 | 2461 | [长度为 K 子数组中的最大和](https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/) |[我的题解](../solutions/problem-2461/)| 滑动窗口 | 中等 |
-
+| 3090 | [每个字符最多出现两次的最长子字符串](https://leetcode.cn/problems/maximum-length-substring-with-two-occurrences/) |[我的题解](../solutions/problem-3090/)| 滑动窗口 | 简单 |
